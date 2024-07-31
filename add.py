@@ -1,4 +1,4 @@
-a=1
-b=2
-c=a+b
+x=1
+y=2
+c=x+y
 print(C)
